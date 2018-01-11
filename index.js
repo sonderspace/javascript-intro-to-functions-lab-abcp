@@ -16,7 +16,18 @@ function logWhisper(myString)
 }
 function sayHiToGrandma(myString)
 {
-  let upperTest = "HELLO";
-  let lowerTest = "hello";
-  let willAlwaysHear = "I love you Grandma!"
+  let lowVoice = "hello";
+  let highVoice = "HELLO";
+  let iLoveYouToo = "I love you, too";
+  
+  if(myString === lowVoice)
+  {
+    return "I can't hear you!";
+  }
+  else if(myString === highVoice)
+  {
+    return "YES INDEED!";
+  }
+  else if(myString ===)
+  
 }
