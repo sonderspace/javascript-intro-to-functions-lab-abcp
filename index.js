@@ -1,4 +1,5 @@
-function shout(smallData) {
+function shout(smallData) 
+{
   return smallData.toUpperCase();
 }
 function whisper(bigData)
