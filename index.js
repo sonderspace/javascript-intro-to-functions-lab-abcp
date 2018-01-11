@@ -1,3 +1,3 @@
 function returnAllCapsString(smallData) {
-  return smallData.
+  return smallData.toUpperCase();
 }
