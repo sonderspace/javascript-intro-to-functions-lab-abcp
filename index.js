@@ -18,7 +18,7 @@ function sayHiToGrandma(myString)
 {
   let lowVoice = "hello";
   let highVoice = "HELLO";
-  let iLoveYouToo = "I love you, too";
+  let willAlwaysHear = "I love you, Grandma.";
   
   if(myString === lowVoice)
   {
@@ -28,6 +28,9 @@ function sayHiToGrandma(myString)
   {
     return "YES INDEED!";
   }
-  else if(myString ===)
+  else if(myString === willAlwaysHear)
+  {
+    return "I love you, too.";
+  }
   
 }
