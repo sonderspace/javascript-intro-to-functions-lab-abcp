@@ -18,5 +18,5 @@ function sayHiToGrandma(myString)
 {
   let upperTest = "HELLO";
   let lowerTest = "hello";
-  let 
+  let willAlwaysHear = "I love you Grandma!"
 }
