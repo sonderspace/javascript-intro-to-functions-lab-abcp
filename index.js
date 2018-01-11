@@ -1,3 +1,3 @@
-function returnAllCapsString(smallData) {
+function shout(smallData) {
   return smallData.toUpperCase();
 }
